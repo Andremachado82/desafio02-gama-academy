@@ -1,4 +1,4 @@
-#Para iniciar o projeto: git clone https://https://github.com/Andremachado82/desafio02-gama-academy
+#Para iniciar o projeto: git clone https://github.com/Andremachado82/desafio02-gama-academy
 
 #Para instalar as dependências: npm i
 
